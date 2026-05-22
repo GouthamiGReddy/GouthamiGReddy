@@ -18,7 +18,7 @@
 
 ## Featured Projects
 
-### 🚌 LavPune Bus Booking System
+### 🚌 Lavasa Bus Booking System
 Role-based Django web application for managing university weekend bus bookings.
 
 ### 📈 Customer Churn Prediction
