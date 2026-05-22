@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Gouthami
 
-<!--
-**GouthamiGReddy/GouthamiGReddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science Undergraduate at CHRIST University, Pune - Lavasa  
+💡 Interested in Machine Learning, Analytics, and Full-Stack Development  
+🚀 Building ML systems, Django web apps, and data-driven solutions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+💻 Python • Java • C++ • JavaScript • SQL  
+📊 Pandas • NumPy • Scikit-learn • Matplotlib  
+🌐 Django • HTML • CSS • Bootstrap  
+🗄️ MySQL • MongoDB  
+📈 Power BI • Excel • Git • GitHub  
+
+---
+
+## Featured Projects
+
+### 🚌 LavPune Bus Booking System
+Role-based Django web application for managing university weekend bus bookings.
+
+### 📈 Customer Churn Prediction
+Machine learning model for predicting customer behaviour and churn.
+
+### 🩺 Diabetes Prediction Model
+Healthcare analytics project using classification algorithms.
+
+### 🌐 Website Traffic Analysis
+Exploratory analysis project identifying engagement and traffic trends.
+
+---
+
+## Leadership & Activities
+
+- Team Lead — CAPS Connect Wide Wing  
+- Department Representative — CPCG  
+- Co-Founder — Ashayein Initiative  
